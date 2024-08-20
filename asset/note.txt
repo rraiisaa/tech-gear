@@ -1,0 +1,24 @@
+Class Bootstrap "
+- align-items-center : tengah secara vertical
+- align-items-start : atas secara vertical
+- align-items-end : bawah secara vertical
+
+Margin
+- mt : margin top
+- mb : margin bottom
+- my : margin vertical ( atas bawah )
+- mx : margin horizontal ( kiri kanan )
+- ms : margin start ( kiri )
+- me : margin end ( kanan)
+ 
+ > ukuran margin di bootstrap hanya 1 - 5, kalau mau lebih bisa custom pakai vanilla css 
+ > cara pakai : my-1
+
+- py : padding vertical ( atas bawah )
+- px : padding horizontal ( kiri kanan )
+
+shadow-lg : bayangan besar/lebar
+shadow-md : bayangan sedang
+shadow-sm : bayangan kecil
+
+# = menandakan memanggil ID
